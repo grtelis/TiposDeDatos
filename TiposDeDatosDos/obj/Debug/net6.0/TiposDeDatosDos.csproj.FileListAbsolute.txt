@@ -1,0 +1,15 @@
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\bin\Debug\net6.0\TiposDeDatosDos.exe
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\bin\Debug\net6.0\TiposDeDatosDos.deps.json
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\bin\Debug\net6.0\TiposDeDatosDos.runtimeconfig.json
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\bin\Debug\net6.0\TiposDeDatosDos.dll
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\bin\Debug\net6.0\TiposDeDatosDos.pdb
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.csproj.AssemblyReference.cache
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.AssemblyInfoInputs.cache
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.AssemblyInfo.cs
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.dll
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\refint\TiposDeDatosDos.dll
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.pdb
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\TiposDeDatosDos.genruntimeconfig.cache
+C:\Aplicaciones\Consola\TiposDeDatosDos\TiposDeDatosDos\obj\Debug\net6.0\ref\TiposDeDatosDos.dll
