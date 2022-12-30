@@ -278,9 +278,39 @@ int[][] arrayOfArray =
     new int[] {12}
 };
 
-int[] segundoElemento = arrayOfArray[1];
+int[] segundoElemento = arrayOfArray[1]; //arreglo con los elementos 7,8, 11
 Console.Write($"\n");
 foreach (int valor in segundoElemento)
 {
     Console.Write($"{valor} ");
 }
+
+//Sustitución de elementos del arreglo de arreglos en la posición 3.
+arrayOfArray[3] = new int[] { 21, 14, 8 };
+int[] cuartoElemento = arrayOfArray[3];
+Console.Write($"\n\n");
+foreach (int value in cuartoElemento)
+{
+    Console.Write($"{value} ");
+}
+
+
+//Mostrar todos los elementos del arreglo de arreglos
+for (int filaPrincipal = 0; filaPrincipal < arrayOfArray.Length; filaPrincipal++)
+{
+    int[] arreglo = arrayOfArray[filaPrincipal];
+
+    for (int columnaPrincipal = 0; columnaPrincipal < arreglo.Length; columnaPrincipal++)
+    {
+        Console.Write($"{arreglo[columnaPrincipal]} ");
+    }
+
+    Console.WriteLine();
+}
+
+//Funciones de string:
+string saludo = "hola";
+saludo.ToLower();
+saludo.ToUpper();
+saludo.Trim();
+saludo.PadLeft(4);
